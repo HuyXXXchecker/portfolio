@@ -35,9 +35,9 @@ const Contact = () => {
   };
 
   const socialLinks = [
-    { icon: <GitHub size={20} />, url: "https://github.com", label: "GitHub" },
-    { icon: <Linkedin size={20} />, url: "https://linkedin.com", label: "LinkedIn" },
-    { icon: <Mail size={20} />, url: "mailto:your.email@example.com", label: "Email" }
+    { icon: <GitHub size={20} />, url: "https://github.com/HuyXXXchecker", label: "GitHub" },
+
+    { icon: <Mail size={20} />, url: "mailto:omgbotcomedy@gmail.com", label: "Email" }
   ];
 
   return (
@@ -72,7 +72,7 @@ const Contact = () => {
           <div className="space-y-4 mb-8">
             <div className="flex items-center space-x-3 hover-target">
               <Mail size={20} className="text-primary" />
-              <span>your.email@example.com</span>
+              <span>omgbotcomedy@gmail.com</span>
             </div>
           </div>
           
