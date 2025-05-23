@@ -44,7 +44,7 @@ const About = () => {
               I'm always trying to be the better version of myself everyday.
             </p>
             <p className="text-lg hover-target">
-              I hope insipire others to do the same.
+              I hope I insipired and inspiring others to do the same.
             </p>
           </motion.div>
         </div>
