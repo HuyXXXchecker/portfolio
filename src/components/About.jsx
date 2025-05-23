@@ -26,7 +26,7 @@ const About = () => {
             viewport={{ once: true, margin: "-100px" }}
           >
             <div className="aspect-square rounded-lg overflow-hidden bg-muted">
-              <img  alt="Professional portrait photo" className="w-full h-full object-cover hover-target" src="https://images.unsplash.com/flagged/photo-1572561701232-6c3bc9ef5aea" />
+              <img  alt="Professional portrait photo" className="w-full h-full object-cover hover-target" src="https://i.ibb.co/GvNw9MNs/495322202-17878231440316704-2575904424573598996-n.jpg" />
             </div>
           </motion.div>
           
@@ -38,16 +38,13 @@ const About = () => {
             viewport={{ once: true, margin: "-100px" }}
           >
             <p className="text-lg mb-6 hover-target">
-              I'm a passionate developer with a keen eye for design and a love for creating clean, 
-              minimalist interfaces that deliver exceptional user experiences.
+              I like coding, gaming and climbing.
             </p>
             <p className="text-lg mb-6 hover-target">
-              With expertise in modern web technologies, I build responsive and interactive applications 
-              that combine aesthetic appeal with functional excellence.
+              I'm always trying to be the better version of myself everyday.
             </p>
             <p className="text-lg hover-target">
-              When I'm not coding, you can find me exploring new design trends, experimenting with creative 
-              projects, or enjoying the outdoors for fresh inspiration.
+              I hope insipire others to do the same.
             </p>
           </motion.div>
         </div>

@@ -7,25 +7,25 @@ import { Button } from '@/components/ui/button';
 const Projects = () => {
   const projects = [
     {
-      title: "Minimalist E-commerce",
-      description: "A clean, modern e-commerce platform with intuitive navigation and seamless checkout experience.",
-      tags: ["React", "TailwindCSS", "Framer Motion"],
+      title: "Proxyless SEO Parser",
+      description: "A light-weight SEO tool that runs completely proxyless.",
+      tags: ["Rust", "Google", "SEO"],
       image: "Minimalist e-commerce website with product grid layout",
       link: "#",
       github: "#"
     },
     {
-      title: "Portfolio Template",
-      description: "A customizable portfolio template for creative professionals with smooth animations.",
-      tags: ["React", "TailwindCSS", "Framer Motion"],
+      title: "SolChain mempool explorer",
+      description: "A flexible and customizable mempool explorer for Solana.",
+      tags: ["Rust", "Python", "Blockchain"],
       image: "Clean portfolio website template with project showcase",
       link: "#",
       github: "#"
     },
     {
-      title: "Task Management App",
-      description: "A sleek task management application with drag-and-drop functionality and progress tracking.",
-      tags: ["React", "TailwindCSS", "Framer Motion"],
+      title: "Palhitter",
+      description: "A multitool revolves around paypal payment gateway.",
+      tags: ["Rust", "Python", "0Day"],
       image: "Minimal task management application with clean interface",
       link: "#",
       github: "#"
@@ -44,7 +44,7 @@ const Projects = () => {
         <h2 className="text-3xl md:text-4xl font-bold mb-6 hover-target">Projects</h2>
         <div className="h-1 w-20 bg-primary mb-8"></div>
         <p className="text-lg mb-12 hover-target">
-          Here are some of my recent projects that showcase my skills and approach to design and development.
+          Here are some of my most recent projects.
         </p>
       </motion.div>
       

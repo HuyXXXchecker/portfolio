@@ -23,7 +23,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          Hello, I'm <span className="text-primary">Your Name</span>
+          Hello, I'm <span className="text-primary">Huy</span>
         </motion.h1>
         
         <motion.div
@@ -39,7 +39,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}
         >
-          A creative developer focused on building minimalist and modern digital experiences
+          Better known as Perycent, this is a walkthrough of my life and work.
         </motion.p>
         
         <motion.div

@@ -16,7 +16,7 @@ const Footer = () => {
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
           >
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Perycent. All rights reserved.
           </motion.p>
           
           <motion.p 
