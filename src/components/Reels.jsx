@@ -43,7 +43,7 @@ const Reels = () => {
           className="hover-target"
           asChild
         >
-          <a href="https://www.instagram.com/your-instagram-username/reels/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/foreign.perycent/" target="_blank" rel="noopener noreferrer">
             View All Reels on Instagram
             <ExternalLink size={16} className="ml-2" />
           </a>
